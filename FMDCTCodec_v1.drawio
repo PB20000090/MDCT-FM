@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.6">
   <diagram name="第 1 页" id="M-n5Y62gtFLIKkPVqOL2">
-    <mxGraphModel dx="1364" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1148" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,7 +261,7 @@
         <mxCell id="mtwVjDNIqrujxUEVeJb0-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="$$\bf{V_t}$$" vertex="1">
           <mxGeometry height="30" width="60" x="890" y="404.99" as="geometry" />
         </mxCell>
-        <mxCell id="F4Vd9pcXbZSGqSEmKemF-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px; color: rgb(178, 102, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;Legend&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="F4Vd9pcXbZSGqSEmKemF-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px; color: rgb(76, 0, 153);&quot;&gt;&lt;b style=&quot;&quot;&gt;Legend&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="520" y="465" as="geometry" />
         </mxCell>
         <mxCell id="F4Vd9pcXbZSGqSEmKemF-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" value="$${\mathbf{X}}_{\mathrm{comp}}$$" vertex="1">
